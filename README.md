@@ -1,4 +1,4 @@
-#Shark Game
+# Shark Game
 
 You control the shark with your mouse. Move your pointer and the shark will move with you. 
 Eating normal fish(orange) will give you 10 points and increase size. 
